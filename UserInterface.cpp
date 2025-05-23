@@ -1,4 +1,4 @@
-﻿#include "UserInterface.h"
+#include "UserInterface.h"
 #include <iostream>
 #include <limits>
 #include <algorithm>

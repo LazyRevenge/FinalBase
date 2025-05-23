@@ -250,3 +250,4 @@ void FineRegistry::saveToFile() const {
     }
     file.close();
 }
+﻿

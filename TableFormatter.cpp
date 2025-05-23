@@ -1,4 +1,4 @@
-﻿#include "TableFormatter.h"
+#include "TableFormatter.h"
 #include <algorithm>
 #include <sstream>
 #include <iomanip>

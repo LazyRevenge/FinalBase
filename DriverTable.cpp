@@ -1,4 +1,4 @@
-﻿#include "DriverTable.h"
+#include "DriverTable.h"
 #include <fstream>
 #include <sstream>
 #include <stdexcept>

@@ -1,4 +1,3 @@
-﻿
 #include "DataBaseManager.h"
 #include <stdexcept>
 

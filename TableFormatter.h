@@ -7,4 +7,4 @@ class TableFormatter {
 public:
     // Ôîðìàòèðóåò äâóìåðíûé âåêòîð ñòðîê â îòôîðìàòèðîâàííóþ ASCII-òàáëèöó
     static std::string format(const std::vector<std::vector<std::string>>& rows);
-};
+}

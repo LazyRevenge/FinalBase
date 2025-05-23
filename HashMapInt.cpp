@@ -1,4 +1,4 @@
-﻿#include "IntHashMap.h"
+#include "IntHashMap.h"
 #include <cmath>
 #include <stdexcept>
 

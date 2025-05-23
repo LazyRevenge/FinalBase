@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #include "DataBaseManager.h"
 #include <string>
 
@@ -14,7 +14,7 @@ private:
     static bool parseDate(const std::string& dateStr, Date& date);
     static bool isDateValid(const Date& date);
     static int calculateAge(const Date& birthDate, const Date& violationDate);
-    static bool isDriverAdult(const std::string& birthDateStr, 
+    static bool isDriverAdult(const std::string& birthDateStr,
         const std::string& violationDateStr);
 
     static const int MAX_CITIES = 100;
@@ -67,4 +67,5 @@ private:
     int readInt(const std::string& prompt);
     double readDouble(const std::string& prompt);
     std::string readString(const std::string& prompt);
-};
+}
+﻿

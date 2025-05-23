@@ -1,4 +1,3 @@
-﻿
 #pragma once
 #include "CityTable.h"
 #include "DriverTable.h"
@@ -47,4 +46,4 @@ public:
     DriverTable& getDrivers() { return drivers; }
     FineTable& getFines() { return fines; }
     FineRegistry& getRegistry() { return registry; }
-};
+}﻿;

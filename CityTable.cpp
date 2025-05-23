@@ -1,4 +1,4 @@
-﻿#include "CityTable.h"
+#include "CityTable.h"
 #include <fstream>
 #include <sstream>
 #include <regex>
