@@ -1,0 +1,8 @@
+9 "asd" 1 "Large" "Village"
+1 "Moscow" 12692466 "Large" "City"
+2 "SaintPetersburg" 5351935 "Large" "City"
+3 "Kazan" 1243500 "Medium" "City"
+4 "Smallville" 50000 "Small" "Town"
+5 "K-U" 12321 "Medium" "City"
+6 "Baku" 11232 "Small" "Village"
+8 "sadasd" -1 "Small" "City"

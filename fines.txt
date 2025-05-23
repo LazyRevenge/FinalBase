@@ -1,0 +1,5 @@
+3 123213 "asd" "Heavy"
+1 1000 "Drank_drive" "Light"
+2 100 "LOLO" "Medium"
+4 123 "asdasd" "Heavy"
+5 10 "dsa" "Light"
